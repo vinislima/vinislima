@@ -20,6 +20,8 @@
 <!--START_SECTION:waka-->
 
 ```text
+From: 18 March 2022 - To: 25 March 2022
+
 JavaScript       5 hrs 48 mins   ██████████████████████▓░░   90.63 %
 CSS              32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
 HTML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
