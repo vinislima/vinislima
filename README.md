@@ -25,6 +25,15 @@
   <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C#" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 <!--START_SECTION:waka-->
+
+```text
+JavaScript       5 hrs 48 mins   ██████████████████████▓░░   90.63 %
+CSS              32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
+HTML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
   
   ##
