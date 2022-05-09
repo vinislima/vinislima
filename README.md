@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 May 2022 - To: 08 May 2022
+From: 02 May 2022 - To: 09 May 2022
 
 Vue.js   5 hrs 1 min     █████████████████████████   99.95 %
 SCSS     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
