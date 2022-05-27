@@ -21,7 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 20 May 2022 - To: 27 May 2022
+
+Vue.js       12 hrs 29 mins  ████████████████████████▓   99.02 %
+Markdown     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+SVG          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
