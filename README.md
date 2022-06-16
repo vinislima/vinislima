@@ -21,9 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2022 - To: 15 June 2022
+From: 09 June 2022 - To: 16 June 2022
 
-HTML   45 mins         █████████████████████████   100.00 %
+Vue.js   1 hr 37 mins    █████████████████▓░░░░░░░   70.68 %
+HTML     40 mins         ███████▒░░░░░░░░░░░░░░░░░   29.32 %
 ```
 
 <!--END_SECTION:waka-->
