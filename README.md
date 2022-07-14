@@ -21,7 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 07 July 2022 - To: 14 July 2022
+
+Vue.js       38 mins         ███████████████████████▒░   93.12 %
+TypeScript   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
