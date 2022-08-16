@@ -23,7 +23,8 @@
 ```text
 From: 09 August 2022 - To: 16 August 2022
 
-HTML   2 hrs 11 mins   █████████████████████████   100.00 %
+HTML     3 hrs 54 mins   █████████████████████████   100.00 %
+Vue.js   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
