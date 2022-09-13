@@ -21,10 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2022 - To: 12 September 2022
+From: 06 September 2022 - To: 13 September 2022
 
-JavaScript   3 hrs 55 mins   █████████████░░░░░░░░░░░░   52.57 %
-HTML         3 hrs 32 mins   ████████████░░░░░░░░░░░░░   47.43 %
+JavaScript   3 hrs 12 mins   ███████████████▒░░░░░░░░░   61.16 %
+HTML         2 hrs 2 mins    █████████▓░░░░░░░░░░░░░░░   38.84 %
 Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
