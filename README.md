@@ -21,11 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 27 October 2022
-
-HTML         10 mins         ██████████████░░░░░░░░░░░   56.26 %
-Vue.js       7 mins          ███████████░░░░░░░░░░░░░░   43.65 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
