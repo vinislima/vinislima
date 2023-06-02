@@ -20,7 +20,7 @@
 <div height="360em">
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 26 May 2023 - To: 02 June 2023
 
 Python       50 mins         █████████████████████░░░░   83.59 %
