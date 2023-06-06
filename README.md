@@ -21,13 +21,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
-Python       6 mins          █████████▓░░░░░░░░░░░░░░░   38.63 %
-JCL          6 mins          █████████▓░░░░░░░░░░░░░░░   38.09 %
-COBOLFree    2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Python   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
