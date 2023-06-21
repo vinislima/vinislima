@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2023 - To: 20 June 2023
+From: 14 June 2023 - To: 21 June 2023
 
-C            1 hr 3 mins     ████████████████████████▓   98.64 %
-Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+C            1 hr 19 mins    ████████████████████████▓   98.91 %
+Makefile     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
