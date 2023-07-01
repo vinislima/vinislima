@@ -21,11 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2023 - To: 30 June 2023
+From: 24 June 2023 - To: 01 July 2023
 
-C            8 hrs 23 mins   █████████████████████████   99.60 %
-Makefile     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C          7 hrs 42 mins   █████████████████████████   99.59 %
+Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
