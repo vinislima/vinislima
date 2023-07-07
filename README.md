@@ -29,14 +29,24 @@ No activity tracked
 <!--END_SECTION:waka-->
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Java Script" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node JS" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="VUE JS" height="20" width="30" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img align="center" alt="HTML 5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C#" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">  
+      <img align="center" alt="Java Script" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+      <img align="center" alt="HTML 5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </a>
+    <a href="https://www.python.org">
+      <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    </a>
+    <a href="https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/">
+      <img align="center" alt="C" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    </a>
+    <a href="https://www.ibm.com/docs/pt-br/i/7.1?topic=languages-cobol">
+      <img align="center" alt="COBOL" height="20" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cobol_icon_130684.png">
+    </a>  
   ##
  
 <div> 
