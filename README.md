@@ -1,6 +1,6 @@
 ### Oi povo! 👋
 
-- ⏳ Dev em desenvolvimento (estagiário)
+- ⏳ Dev em desenvolvimento
 <!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
