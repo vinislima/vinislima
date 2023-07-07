@@ -28,25 +28,27 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 </div>
+<h2 dir="auto"></h2>
   <div style="display: inline_block"><br>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">  
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  
       <img align="center" alt="Java Script" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
       <img align="center" alt="HTML 5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
       <img align="center" alt="CSS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     </a>
-    <a href="https://www.python.org">
+    <a href="https://www.python.org" target="_blank">
       <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     </a>
-    <a href="https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/">
+    <a href="https://www.freecodecamp.org/news/what-is-the-c-programming-language-beginner-tutorial/" target="_blank">
       <img align="center" alt="C" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     </a>
-    <a href="https://www.ibm.com/docs/pt-br/i/7.1?topic=languages-cobol">
+    <a href="https://www.ibm.com/docs/pt-br/i/7.1?topic=languages-cobol" target="_blank">
       <img align="center" alt="COBOL" height="20" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cobol_icon_130684.png">
     </a>
+  </div>  
 <h2 dir="auto"></h2>
 <div> 
   <a href="https://instagram.com/vinislima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
