@@ -46,8 +46,7 @@ No activity tracked
     </a>
     <a href="https://www.ibm.com/docs/pt-br/i/7.1?topic=languages-cobol">
       <img align="center" alt="COBOL" height="20" width="30" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cobol_icon_130684.png">
-    </a>  
-  ##
+    </a>
  
 <div> 
   <a href="https://instagram.com/vinislima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
