@@ -21,10 +21,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2023 - To: 14 July 2023
+From: 08 July 2023 - To: 15 July 2023
 
-C          1 hr 5 mins     ████████████████████████▓   98.79 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+C   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
