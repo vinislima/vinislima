@@ -21,10 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 25 August 2023 - To: 01 September 2023
 
-Python   12 mins         ███████████████████░░░░░░   75.57 %
-C        4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.43 %
+C          36 mins         ██████████████████▓░░░░░░   74.09 %
+Python     12 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
