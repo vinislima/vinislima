@@ -21,7 +21,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
 C          3 hrs 18 mins   ████████████████████████▒   97.66 %
 HTML       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
