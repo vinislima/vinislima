@@ -21,11 +21,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2023 - To: 14 September 2023
+From: 08 September 2023 - To: 15 September 2023
 
-C          2 hrs 28 mins   ████████████████████████▒   97.62 %
-Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+C          1 hr 49 mins    ████████████████████████▒   97.09 %
+Text       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
