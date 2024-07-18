@@ -21,10 +21,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2024 - To: 17 July 2024
+From: 11 July 2024 - To: 18 July 2024
 
-Python   7 hrs 7 mins    █████████████░░░░░░░░░░░░   51.72 %
-C        6 hrs 39 mins   ████████████░░░░░░░░░░░░░   48.28 %
+Python   7 hrs 41 mins   █████████████░░░░░░░░░░░░   51.98 %
+C        7 hrs 6 mins    ████████████░░░░░░░░░░░░░   48.02 %
 ```
 
 <!--END_SECTION:waka-->
