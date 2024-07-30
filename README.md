@@ -17,7 +17,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vinislima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinislima&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div height="340em">
+<div height="320em">
 <!--START_SECTION:waka-->
 
 ```txt
