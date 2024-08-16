@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2024 - To: 15 August 2024
+From: 09 August 2024 - To: 16 August 2024
 
-Bash    3 hrs 20 mins   ██████████████████▒░░░░░░   73.26 %
-Other   1 hr 5 mins     ██████░░░░░░░░░░░░░░░░░░░   24.13 %
-C       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Bash    4 hrs 34 mins   █████████████████▒░░░░░░░   69.19 %
+Other   1 hr 17 mins    █████░░░░░░░░░░░░░░░░░░░░   19.50 %
+C       44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
 ```
 
 <!--END_SECTION:waka-->
