@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2024 - To: 31 August 2024
+From: 25 August 2024 - To: 01 September 2024
 
-C       38 hrs 13 mins  █████████████████████████   99.51 %
-Other   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+C       36 hrs 26 mins  █████████████████████████   99.92 %
 Text    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
