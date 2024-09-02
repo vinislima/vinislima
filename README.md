@@ -22,11 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2024 - To: 01 September 2024
+From: 26 August 2024 - To: 02 September 2024
 
-C       36 hrs 26 mins  █████████████████████████   99.92 %
-Text    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+C          34 hrs 12 mins  █████████████████████████   99.56 %
+Makefile   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Text       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
