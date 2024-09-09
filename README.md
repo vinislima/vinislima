@@ -22,11 +22,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 September 2024 - To: 08 September 2024
+From: 02 September 2024 - To: 09 September 2024
 
-C          25 hrs 13 mins  █████████████████████████   99.52 %
-Makefile   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C   19 hrs 24 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
