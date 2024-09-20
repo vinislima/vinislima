@@ -22,11 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 19 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-C          6 hrs 3 mins    ████████████████████████▒   97.41 %
-Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+C          6 hrs 8 mins    ████████████████████████▒   97.41 %
+Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Python     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
