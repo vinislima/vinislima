@@ -1,6 +1,6 @@
 ### Oi povo! 👋
 
-- ⏳ Dev em desenvolvimento
+- ⏳ Dev em desenvolvimento | Cadete <a href = "https://www.42sp.org.br/"> 42 - São Paulo </a>
 <!---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
