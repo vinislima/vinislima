@@ -22,13 +22,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 October 2024 - To: 11 October 2024
+From: 05 October 2024 - To: 12 October 2024
 
-C             15 hrs 32 mins  ███████████████████░░░░░░   76.32 %
-Makefile      2 hrs 51 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Objective-C   1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-JSON          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+C             16 hrs 25 mins  ███████████████████▒░░░░░   77.83 %
+Makefile      2 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
+Objective-C   1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
 Bash          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
