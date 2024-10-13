@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2024 - To: 12 October 2024
+From: 06 October 2024 - To: 13 October 2024
 
 C             16 hrs 25 mins  ███████████████████▒░░░░░   77.83 %
 Makefile      2 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
