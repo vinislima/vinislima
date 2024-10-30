@@ -22,11 +22,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2024 - To: 29 October 2024
+From: 23 October 2024 - To: 30 October 2024
 
-C          20 hrs 12 mins  ███████████████████████▓░   94.58 %
-Makefile   1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C          19 hrs 19 mins  ███████████████████████▓░   94.27 %
+Makefile   1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
