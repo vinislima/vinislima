@@ -22,10 +22,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2024 - To: 08 November 2024
+From: 02 November 2024 - To: 09 November 2024
 
-C          8 hrs 21 mins   ████████████████████████▓   99.33 %
-Makefile   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+C          6 hrs 13 mins   ████████████████████████░   96.33 %
+Python     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+Makefile   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
