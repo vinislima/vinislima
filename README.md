@@ -22,10 +22,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
-C          49 mins         ██████████████████▒░░░░░░   73.09 %
-Markdown   18 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.91 %
+C          49 mins         █████████████▓░░░░░░░░░░░   55.24 %
+Markdown   39 mins         ███████████▒░░░░░░░░░░░░░   44.76 %
 ```
 
 <!--END_SECTION:waka-->
