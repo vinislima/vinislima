@@ -1,4 +1,4 @@
-<h1 align="left">Olá, eu sou o [Vinícius Lima](https://www.linkedin.com/in/viniciusslima/) 👋</h1>
+<h1 align="left">Olá, eu sou o <a href="https://www.linkedin.com/in/viniciusslima/" target="_blank" rel="noopener noreferrer">Vinícius Lima</a> 👋</h1>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2021<br>📚 Atualmente trabalhando no [common core da 42 São Paulo](https://github.com/vinislima/my-path-at-42) <br>
+<p align="left">✨ Criando bugs desde 2021<br>📚 Atualmente trabalhando no <a href="https://github.com/vinislima/my-path-at-42" target="_blank" rel="noopener noreferrer">
+  common core da 42 São Paulo</a> <br>
   📖 Aprendendo C
 </p>
 
