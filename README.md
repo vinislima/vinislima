@@ -12,7 +12,7 @@
 
 <p align="left">✨ Creating bugs since 2021<br>
   📚 Currently working on the <a href="https://github.com/vinislima/my-path-at-42" target="_blank" rel="noopener noreferrer">
-  common core at 42 São Paulo</a> | <a href="https://github.com/vinislima/courses_and_practice" target="_blank" rel="noopener noreferrer"> courses and practice </a>
+  common core at 42 São Paulo</a> and <a href="https://github.com/vinislima/courses_and_practice" target="_blank" rel="noopener noreferrer"> courses and practice </a>
   <br>
   📖 Learning C
 </p>
