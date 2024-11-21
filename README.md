@@ -74,10 +74,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-Markdown   1 hr 57 mins    ████████████████▒░░░░░░░░   65.84 %
-C          1 hr            ████████▓░░░░░░░░░░░░░░░░   34.16 %
+C          4 hrs 27 mins   █████████████▒░░░░░░░░░░░   53.93 %
+Markdown   2 hrs 24 mins   ███████▒░░░░░░░░░░░░░░░░░   29.19 %
+Makefile   1 hr 16 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+C++        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
