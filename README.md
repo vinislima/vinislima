@@ -78,9 +78,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 30 December 2024
+From: 24 December 2024 - To: 31 December 2024
 
-C   5 mins          █████████████████████████   100.00 %
+Markdown   45 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
