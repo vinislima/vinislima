@@ -78,11 +78,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2024 - To: 06 January 2025
+From: 31 December 2024 - To: 07 January 2025
 
-Markdown   45 mins         ████████████████░░░░░░░░░   64.18 %
-C          17 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
-Text       7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+C      17 mins         █████████████████▓░░░░░░░   70.00 %
+Text   7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.00 %
 ```
 
 <!--END_SECTION:waka-->
