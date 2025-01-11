@@ -78,10 +78,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 January 2025 - To: 10 January 2025
+From: 04 January 2025 - To: 11 January 2025
 
-C          2 hrs 39 mins   █████████████████████████   99.64 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+C          3 hrs 58 mins   █████████████████████████   99.76 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
