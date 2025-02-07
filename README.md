@@ -78,11 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 January 2025 - To: 06 February 2025
+From: 31 January 2025 - To: 07 February 2025
 
-C          1 hr 22 mins    ████████████████████████░   95.57 %
-Other      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Makefile   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+C          1 hr 27 mins    ████████████████████████░   95.69 %
+Other      2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
