@@ -78,11 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2025 - To: 27 March 2025
+From: 21 March 2025 - To: 28 March 2025
 
-C          3 hrs 8 mins    █████████████████████▓░░░   86.74 %
-Text       23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-Markdown   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+C          5 hrs 37 mins   █████████████████████░░░░   83.94 %
+Text       58 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Markdown   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
