@@ -78,13 +78,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2025 - To: 02 April 2025
+From: 27 March 2025 - To: 03 April 2025
 
-C             11 hrs 27 mins  ████████████████████▓░░░░   83.28 %
-Text          2 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.63 %
-Markdown      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-shellscript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+C             10 hrs 7 mins   █████████████████████░░░░   83.37 %
+Text          1 hr 52 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
+Markdown      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+shellscript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Makefile      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
