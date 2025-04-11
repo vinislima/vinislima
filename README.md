@@ -1,25 +1,25 @@
-<h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/viniciusslima/" target="_blank" rel="noopener noreferrer">Vinícius Lima</a> 👋</h1>
+<h1 align="left">Oi, eu sou o <a href="https://www.linkedin.com/in/viniciusslima/" target="_blank" rel="noopener noreferrer">Vinícius Lima</a> 👋</h1>
 
 ###
 
-<p align="left">Aspiring Software Engineer.</p>
+<p align="left">Engenheiro de Software em formação.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>
-  📚 Currently working on the <a href="https://github.com/vinislima/my-path-at-42" target="_blank" rel="noopener noreferrer">
-  common core at 42 São Paulo</a> and <a href="https://github.com/vinislima/courses_and_practice" target="_blank" rel="noopener noreferrer"> courses and practice </a>
+<p align="left">✨ Criando bugs desde 2021<br>
+  📚 Trabalhando atualmente em <a href="https://github.com/vinislima/my-path-at-42" target="_blank" rel="noopener noreferrer">
+  common core na 42 São Paulo</a> and <a href="https://github.com/vinislima/courses_and_practice" target="_blank" rel="noopener noreferrer"> cursos e práticas </a>
   <br>
-  📖 Learning C
+  📖 Aprendendo C
 </p>
 
 ###
 
-<h2 align="left">I think I know</h2>
+<h2 align="left">Eu acho que eu sei</h2>
 
 ###
 
@@ -43,7 +43,7 @@
 
 ###
 
-<h2 align="left">Find me on</h2>
+<h2 align="left">Pode me achar em</h2>
 
 ###
 
