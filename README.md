@@ -78,11 +78,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2025 - To: 07 May 2025
+From: 01 May 2025 - To: 08 May 2025
 
-C          30 mins         ███████████████████░░░░░░   75.84 %
-Makefile   8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.63 %
-C++        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
