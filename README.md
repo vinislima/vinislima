@@ -78,11 +78,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2025 - To: 05 June 2025
+From: 30 May 2025 - To: 06 June 2025
 
-C          3 hrs 33 mins   ████████████████████████▒   96.99 %
-Markdown   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+C       3 hrs 27 mins   █████████████████████████   99.83 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
