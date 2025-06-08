@@ -78,7 +78,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2025 - To: 07 June 2025
+From: 01 June 2025 - To: 08 June 2025
 
 C       4 hrs 22 mins   █████████████████████████   99.86 %
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
