@@ -78,11 +78,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 July 2025 - To: 04 August 2025
+From: 29 July 2025 - To: 05 August 2025
 
-Makefile   0 secs          ████████████▒░░░░░░░░░░░░   48.81 %
-C++        0 secs          ████████▓░░░░░░░░░░░░░░░░   35.21 %
-C          0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
