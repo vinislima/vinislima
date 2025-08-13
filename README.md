@@ -78,7 +78,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
 C++        12 mins         ██████████████████▒░░░░░░   72.96 %
 Makefile   3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
