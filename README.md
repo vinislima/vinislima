@@ -78,12 +78,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-C++        21 mins         ██████████████████████░░░   87.98 %
-Text       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Makefile   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
