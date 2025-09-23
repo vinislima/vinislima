@@ -78,9 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2025 - To: 22 September 2025
+From: 16 September 2025 - To: 23 September 2025
 
-C   3 mins          █████████████████████████   100.00 %
+C             39 mins         ███████████████████████▒░   93.87 %
+Makefile      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Objective-C   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
