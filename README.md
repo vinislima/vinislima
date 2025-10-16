@@ -78,7 +78,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 October 2025 - To: 15 October 2025
+From: 09 October 2025 - To: 16 October 2025
 
 C             2 hrs 4 mins    ████████████████████░░░░░   80.58 %
 Text          15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
