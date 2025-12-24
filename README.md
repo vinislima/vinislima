@@ -78,12 +78,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2025 - To: 23 December 2025
+From: 17 December 2025 - To: 24 December 2025
 
-C++        8 hrs 30 mins   ███████████████████▓░░░░░   78.61 %
-Makefile   2 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   20.37 %
-Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Text       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+C++        8 hrs 37 mins   ███████████████████▒░░░░░   77.47 %
+Makefile   2 hrs 23 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
+Other      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Text       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
