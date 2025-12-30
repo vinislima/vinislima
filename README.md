@@ -78,10 +78,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-C++        11 hrs 6 mins   ██████████████████████▓░░   90.65 %
-Makefile   1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+C++        11 hrs 46 mins  ███████████████████████▒░   93.80 %
+Makefile   44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 C          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
