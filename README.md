@@ -78,10 +78,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2026 - To: 14 January 2026
+From: 08 January 2026 - To: 15 January 2026
 
-Markdown   11 mins         ████████████████▓░░░░░░░░   66.28 %
-C++        5 mins          ████████▒░░░░░░░░░░░░░░░░   33.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
