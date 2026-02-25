@@ -78,11 +78,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 February 2026 - To: 24 February 2026
+From: 18 February 2026 - To: 25 February 2026
 
-C          22 mins               █████████████████████▒░░░   84.91 %
-C++        3 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
-Makefile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C          22 mins               ████████████▓░░░░░░░░░░░░   51.15 %
+C++        21 mins               ████████████▒░░░░░░░░░░░░   48.71 %
+Makefile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
