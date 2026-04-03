@@ -80,13 +80,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2026 - To: 02 April 2026
+From: 27 March 2026 - To: 03 April 2026
 
-Markdown     15 mins               █████████░░░░░░░░░░░░░░░░   36.13 %
-Bash         13 mins               ████████░░░░░░░░░░░░░░░░░   32.27 %
-Other        6 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.22 %
-Prisma       3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-TypeScript   2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+Markdown   6 mins                ██████████████░░░░░░░░░░░   55.78 %
+Other      5 mins                ███████████░░░░░░░░░░░░░░   44.22 %
 ```
 
 <!--END_SECTION:waka-->
