@@ -80,10 +80,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 July 2026 - To: 03 August 2026
+From: 28 July 2026 - To: 04 August 2026
 
-C++        3 hrs 37 mins         █████████████████████░░░░   84.25 %
-Makefile   40 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+C++        5 hrs 21 mins         █████████████████████▒░░░   85.72 %
+Makefile   53 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
 ```
 
 <!--END_SECTION:waka-->
