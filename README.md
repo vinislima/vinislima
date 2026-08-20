@@ -65,18 +65,6 @@
 
 <h2 align="left">Estatísticas</h2>
 
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/viniciusslima/" target="_blank" rel="noopener noreferrer">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vinislima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinislima&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
-###
-
-<div height="320em">
 <!--START_SECTION:waka-->
 
 ```txt
