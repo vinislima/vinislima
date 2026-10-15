@@ -68,11 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-Docker     1 hr 46 mins          ██████████████████░░░░░░░   71.78 %
-Bash       41 mins               ███████░░░░░░░░░░░░░░░░░░   28.00 %
-Makefile   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Docker       1 hr 46 mins          ████████████████▒░░░░░░░░   64.97 %
+Bash         42 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.01 %
+Markdown     13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Makefile     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
