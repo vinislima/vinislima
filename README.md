@@ -68,13 +68,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2026 - To: 25 October 2026
+From: 19 October 2026 - To: 26 October 2026
 
-C          2 hrs 43 mins         ████████████████████▒░░░░   81.52 %
-Other      11 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-Makefile   8 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Markdown   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-YAML       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+C   2 hrs 6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
