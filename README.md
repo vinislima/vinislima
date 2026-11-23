@@ -68,11 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2026 - To: 01 November 2026
+From: 16 November 2026 - To: 23 November 2026
 
-C        4 hrs 38 mins         ████████████████████████░   96.61 %
-Python   8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-Text     1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+JavaScript    2 hrs 46 mins         ████████████░░░░░░░░░░░░░   48.07 %
+Markdown      1 hr 5 mins           ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
+Astro         1 hr 2 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.91 %
+JSON          22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+Other         22 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
 ```
 
 <!--END_SECTION:waka-->
