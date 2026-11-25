@@ -68,13 +68,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2026 - To: 24 November 2026
+From: 18 November 2026 - To: 25 November 2026
 
-JavaScript    4 hrs 9 mins          █████████████░░░░░░░░░░░░   51.87 %
-Markdown      1 hr 8 mins           ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
-Astro         1 hr 2 mins           ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
-JSON          22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Other         22 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+JavaScript    5 hrs 7 mins          █████████████▓░░░░░░░░░░░   54.36 %
+Markdown      1 hr 23 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Astro         1 hr 2 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+Other         34 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+JSON          22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
